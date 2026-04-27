@@ -19,3 +19,37 @@ Says they share laptop with child son sometimes.
 
 [3] Since customer has a project due, and is unable to work from home, this is a critical Incident so we will be selecting Emergency Response.
 <img width="1920" height="911" alt="SSO_Sc_3" src="https://github.com/user-attachments/assets/c12af2f5-956a-4625-9b7a-a07419b2bffc" />
+
+[4] This is a preview of our Emergency Incident Response Form.
+<img width="1323" height="396" alt="SSO_Sc_4" src="https://github.com/user-attachments/assets/75d6cd40-af86-42c8-80f0-f4ccf7be86ca" />  
+[4A] This is a preview of our Standard Incident Response Form. Note: Our Elite Support offer requests will always contain a "Critical" priority.
+<img width="1324" height="392" alt="SSO_Sc_5" src="https://github.com/user-attachments/assets/7adf97e6-7e57-4c83-94fe-8d5af488173e" />
+[5]Our Callers' Name is Fred Luddy.
+<img width="989" height="675" alt="SSO_Sc_6" src="https://github.com/user-attachments/assets/0fd6a560-729a-4bd7-bf57-e895e3c5772d" />
+[5A]Incident Record
+```
+Category: Software  
+            *Customer is experiencing computer performance issues
+
+Subcategory: Operating System
+            *Customer is having trouble navigating Windows 11 and using and installed apps.
+
+Service: IT Services
+          *Customer is requesting IT Support.
+
+Service offering: Customer has chosen Premium Support offering
+                    *Customer requests Premium Support
+
+Configuration Item: Windows 11
+                    *Windows 11 Assigned to Fred Luddy, the Operating System customer is using.
+
+
+
+
+
+
+
+```
+
+[5C]
+<img width="800" height="249" alt="SSO_Sc_7" src="https://github.com/user-attachments/assets/2f8d3b74-8062-4aec-821a-ea6230c7251e" />
