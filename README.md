@@ -8,6 +8,18 @@ They are unable to use required programs for work without severe performance iss
 Customer says they work from home at an Engineering firm and needs the device fixed ASAP. They have a project due on Monday **3/27/26**.
 Says they share laptop with child son sometimes. 
 
+<details><summary>Click to see Lab components</summary>
+           
+           
+           Note: The Virtual Machine being operated on was utilized  
+           in the precursor lab titled, "Dynamic Analysis of Malicious 3rd Party Software."
+
+           Hypervisor: Virtualbox Version 7.2.6 r172322 (Qt6.8.0 on windows)
+           Host: Windows 10 Home 22H2 19045.6466
+           Ticketing Software: ServiceNow PDI (Private Developer Instant)
+          
+
+</details>
 
 ## Service Intake
 **3/24/26, 10:32am**  
@@ -84,5 +96,5 @@ using the "impersonate" tool and assigning the Incident to user Jake of Howell T
 Note: For the purposes of this lab, response and Incident Resolution times will not exactly align with real-time production requirements.
 <img width="472" height="699" alt="SSO_Sc_14" src="https://github.com/user-attachments/assets/1184349e-120d-45a8-b175-46a947bebd4d" />
 
-**[7]**
+**[7]** Now we will "open" the suspect machine in Virtualbox
 
