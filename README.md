@@ -96,5 +96,15 @@ using the "impersonate" tool and assigning the Incident to user Jake of Howell T
 Note: For the purposes of this lab, response and Incident Resolution times will not exactly align with real-time production requirements.
 <img width="472" height="699" alt="SSO_Sc_14" src="https://github.com/user-attachments/assets/1184349e-120d-45a8-b175-46a947bebd4d" />
 
-**[7]** Now we will "open" the suspect machine in Virtualbox
+**[7]** Now we will "open" the suspect machine in Virtualbox. This is the immediate screen we are faced it. 
+
+<img width="1019" height="768" alt="SSO_Sc_15" src="https://github.com/user-attachments/assets/42b94382-f626-401b-9918-c66c65a22f1b" />
+
+**[8]** Now, we will gather information. We will open task manager and see what is using the most resources on idle.
+
+<img width="1020" height="763" alt="SSO_Sc_16" src="https://github.com/user-attachments/assets/e1d2a03a-6c33-4e81-828c-10079cf34c2a" />
+
+Immediately we see several suspicious applications which are eating up processing power. Further research will be conducted to identify unauthorized processes.
+
+<img width="1016" height="762" alt="SSO_Sc_17" src="https://github.com/user-attachments/assets/f21a02c7-2816-435d-b9db-7667fabc03d0" />
 
