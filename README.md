@@ -84,5 +84,5 @@ using the "impersonate" tool and assigning the Incident to user Jake of Howell T
 Note: For the purposes of this lab, response and Incident Resolution times will not exactly align with real-time production requirements.
 <img width="472" height="699" alt="SSO_Sc_14" src="https://github.com/user-attachments/assets/1184349e-120d-45a8-b175-46a947bebd4d" />
 
-
+**[7]**
 
