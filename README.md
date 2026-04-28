@@ -14,6 +14,8 @@ Says they share laptop with child son sometimes.
            Note: The Virtual Machine being operated on was utilized  
            in the precursor lab titled, "Dynamic Analysis of Malicious 3rd Party Software."
 
+           Also, due to the innate nature of constrained processing power inside Virtual Machines, exact 
+           performance metrics will not be recorded, however, in a real scenario those are important to identify the result.
            Hypervisor: Virtualbox Version 7.2.6 r172322 (Qt6.8.0 on windows)
            Host: Windows 10 Home 22H2 19045.6466
            Ticketing Software: ServiceNow PDI (Private Developer Instant)
