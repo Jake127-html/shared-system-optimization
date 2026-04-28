@@ -77,5 +77,12 @@ Assigned to: Jake Rivas
 **[6]** We will now immediately notify our Customer that we have processed their request and are now working to fix their issue.
 <img width="1916" height="422" alt="SSO_Sc_13" src="https://github.com/user-attachments/assets/0bc6914c-0136-4151-9141-592710e8e655" />
 
+**[6A]** Preview of customer confirmation email. Note: Due to ServiceNow's handling of PDIs (Private Developer Instances) emails are not actually sent through SMTP. However, we can preview "sent" emails.
+Additionally, in a production environment the ticket would not state that the "System Administrator" opened the Incident. Rather, this has to do with ServiceNow's methods of handling PDIs, despite 
+using the "impersonate" tool and assigning the Incident to user Jake of Howell TechNow.  
+  
+Note: For the purposes of this lab, response and Incident Resolution times will not exactly align with real-time production requirements.
+<img width="472" height="699" alt="SSO_Sc_14" src="https://github.com/user-attachments/assets/1184349e-120d-45a8-b175-46a947bebd4d" />
+
 
 
