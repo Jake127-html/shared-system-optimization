@@ -110,7 +110,13 @@ Immediately we see several suspicious applications which are eating up processin
 
 <img width="1016" height="762" alt="SSO_Sc_17" src="https://github.com/user-attachments/assets/f21a02c7-2816-435d-b9db-7667fabc03d0" />
 
-**[9]** We will now comment in the work notes our findings, and email the client we beginning to uninstall suspicious applications.
+**[9]** We will note the probable cause in the incident details.
+
+<img width="629" height="266" alt="SSO_Sc_37" src="https://github.com/user-attachments/assets/191691ba-9bc6-4594-8afa-75084ceb8ff1" />
+
+
+
+**[9A]** We will now comment in the work notes, our findings, email the client, and begin to uninstall suspicious applications.
 
 <img width="1417" height="636" alt="SSO_Sc_18" src="https://github.com/user-attachments/assets/c025ede4-7983-42cd-8a5f-572e809b217d" />
 
@@ -144,7 +150,43 @@ Right click -> Properties -> Shortcut -> Target & Shortcut
 
 <img width="839" height="575" alt="SSO_Sc_28" src="https://github.com/user-attachments/assets/f9b0ac7f-27c9-4417-b2c1-01d3b9316e54" />
 
-**[10E] I actually ran into an issue where a process of iWin Games is running, which is preventing me from deleting the files currently in use.
+**[10E]** I actually ran into an issue where a process of iWin Games is running, which is preventing me from deleting the files currently in use.
 
 <img width="1018" height="765" alt="SSO_Sc_29" src="https://github.com/user-attachments/assets/4af76cea-6413-4714-ba09-9e6e998d83fc" />
 
+**[10F]** To fix this issue I navigated to the task manager in order locate and end any processes by iWin Games that are running.
+
+<img width="705" height="672" alt="SSO_Sc_30" src="https://github.com/user-attachments/assets/8fded01a-1565-4368-899d-63848b3c0201" />
+
+
+<img width="725" height="431" alt="SSO_Sc_31" src="https://github.com/user-attachments/assets/2e259d1f-c924-420c-916c-4035991551e6" />
+
+
+**[10G]** I then tried again to delete the conents only to find that there are 1 or more processes still running. So I navigated back to task manager to track down the last process.
+
+<img width="706" height="675" alt="SSO_Sc_32" src="https://github.com/user-attachments/assets/a3b42453-fd41-4aaa-b0dd-c5ff8805b26b" />
+
+**[10H]** Success, iWin Games is sucessfuly uninstalled.
+
+<img width="622" height="254" alt="SSO_Sc_33" src="https://github.com/user-attachments/assets/787be02c-9c81-4e2d-961b-7a3deefa3481" />
+
+**[11]** Another software is giving the same issue as iWin Games. It is not uninstallable from menus, and I had to manually locate the program directory and delete it. This seems to be not uncommon in greyware.
+
+<img width="1014" height="762" alt="SSO_Sc_34" src="https://github.com/user-attachments/assets/da790f1d-4d13-4987-92a9-cb0139990f4d" />
+
+**[12]** We will now put in the work notes our progress on the device.
+
+<img width="780" height="530" alt="SSO__Sc_36" src="https://github.com/user-attachments/assets/2237c151-142f-4f8c-adaf-bcaf0cc7c9ea" />
+
+**[12A]** Additionally, we will notify our client, Fred, through email to assure him he will have his device back soon.
+
+<img width="1102" height="570" alt="SSO_Sc_38" src="https://github.com/user-attachments/assets/b4429701-6983-4c87-9771-c9fd38ea3da8" />
+
+
+
+**[13]** There are still remnants of iWin Games services so we will delete them manually in the CLI
+
+<img width="946" height="584" alt="SSO_Sc_35" src="https://github.com/user-attachments/assets/5b84c29f-98b1-4e77-b3cc-e6022d8742d0" />
+
+
+**[12A]** 
