@@ -188,5 +188,15 @@ Right click -> Properties -> Shortcut -> Target & Shortcut
 
 <img width="946" height="584" alt="SSO_Sc_35" src="https://github.com/user-attachments/assets/5b84c29f-98b1-4e77-b3cc-e6022d8742d0" />
 
+<img width="1020" height="765" alt="SSO_Sc_39" src="https://github.com/user-attachments/assets/6b08f0e5-fe20-455c-8173-a92fdca656f1" />
 
-**[12A]** 
+**[14]** We will run a FULL Microsoft Defender scan for a deeper search of the computer. It will take a while.
+
+<img width="1015" height="765" alt="SSO_Sc_41" src="https://github.com/user-attachments/assets/860354ff-0922-47a1-9731-8632c96b865e" />
+
+
+**[14]** We will continue to search, now in the Registry, for further obsolete entries and delete them.
+
+<img width="857" height="509" alt="SSO_Sc_40" src="https://github.com/user-attachments/assets/8367189e-2010-462a-beae-782151ee7e8c" />
+
+**[
