@@ -194,9 +194,40 @@ Right click -> Properties -> Shortcut -> Target & Shortcut
 
 <img width="1015" height="765" alt="SSO_Sc_41" src="https://github.com/user-attachments/assets/860354ff-0922-47a1-9731-8632c96b865e" />
 
+**[14A]** Windows Defender actually detected several highly suspicious files so those will be removed as well. There is even record of a previously detected Windows Defender Backdoor that tried to take advantage of a popular vulnerability in Windows 10, utilizing methods to disable Defender from functioning properly. Yet Defender pulled through! We will be entering this in documentation later to look for this in the future.
+
+<img width="875" height="673" alt="SSO_Sc_42" src="https://github.com/user-attachments/assets/0678b710-aa9d-445a-bbf5-9c4bad71c779" />
+
+<img width="1011" height="764" alt="SSO_Sc_43" src="https://github.com/user-attachments/assets/cf8612f3-337c-46ae-ad77-1b5142666b19" />
+
+<img width="1017" height="762" alt="SSO_Sc_44" src="https://github.com/user-attachments/assets/6ec95c20-c215-4171-a838-03aef00c8936" />
+
 
 **[14]** We will continue to search, now in the Registry, for further obsolete entries and delete them.
 
 <img width="857" height="509" alt="SSO_Sc_40" src="https://github.com/user-attachments/assets/8367189e-2010-462a-beae-782151ee7e8c" />
 
-**[
+**[15]** We are finished clearing the computer of PUPs and can now work on the incident record. After we finish the incident report we can notify Fred.
+
+<img width="328" height="684" alt="SSO_Sc_45" src="https://github.com/user-attachments/assets/6bb9e226-a765-48b0-a829-1a0374648c13" />
+
+```
+Resolution Notes:
+
+Hi, Fred. Your PC is back to normal performance, and is ready for pickup. I removed various unauthorized applications, Viruses, and Malware. In the future, I recommend if you share your work device with your family, to create separate accounts for each person. That way, you can enable protections that limit what a person can do on your computer to prevent this from happening the future. If you have any questions, or run into any problems please don't hesitate to contact us. Thank you, and good luck on your project!
+
+Root Cause: Severe performance degradation caused by installation of Potentially Unwanted Programs and resulting in various active Malware and Viruses.
+
+Solution: Returned performance through; Uninstalled 15 programs, various malicious Registry entries, and viruses.
+
+Microsoft Defender is now the default Antivirus instead of web-downloaded software.
+
+Microsoft Defender Backdoor removed at the following directories:
+
+C:\Users\Jake\AppData\Local\Google\Chrome\User Data\Default\Cache\old_Cache_Data_000\f_0002d7
+
+C:\Windows\System32\DefenderTamperingRestore
+
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection
+```
+
