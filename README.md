@@ -231,3 +231,7 @@ C:\Windows\System32\DefenderTamperingRestore
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection
 ```
 
+**[16]** Final: Our Incident is now complete.
+
+<img width="661" height="883" alt="SSO_Sc_47" src="https://github.com/user-attachments/assets/ad269810-0a01-430e-8fc8-539ea1c2fa17" />
+
