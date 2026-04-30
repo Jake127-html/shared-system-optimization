@@ -110,3 +110,18 @@ Immediately we see several suspicious applications which are eating up processin
 
 <img width="1016" height="762" alt="SSO_Sc_17" src="https://github.com/user-attachments/assets/f21a02c7-2816-435d-b9db-7667fabc03d0" />
 
+**[9]** We will now comment in the work notes our findings, and email the client we beginning to uninstall suspicious applications.
+
+<img width="1417" height="636" alt="SSO_Sc_18" src="https://github.com/user-attachments/assets/c025ede4-7983-42cd-8a5f-572e809b217d" />
+
+
+
+<img width="1385" height="431" alt="SSO_Sc_20" src="https://github.com/user-attachments/assets/315dd67e-07c6-4d11-8a50-c760ef9bf3b0" />
+
+**[10]** It is now time to begin uninstalling suspicious applications.
+
+<img width="1021" height="765" alt="SSO_Sc_19" src="https://github.com/user-attachments/assets/e8aab6a4-2309-458e-8b1e-c849212a046d" />
+
+<img width="1011" height="764" alt="SSO_Sc_21" src="https://github.com/user-attachments/assets/9b190b1c-c516-48ad-b7d1-5d876f54432b" />
+
+We will go through the uninstall process for each of the applications.
