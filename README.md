@@ -124,4 +124,27 @@ Immediately we see several suspicious applications which are eating up processin
 
 <img width="1011" height="764" alt="SSO_Sc_21" src="https://github.com/user-attachments/assets/9b190b1c-c516-48ad-b7d1-5d876f54432b" />
 
-We will go through the uninstall process for each of the applications.
+**[10A]** We will go through the uninstall process for each of the applications. Please note that uninstalling "profile" or "user data" is important to removing the entirety of an apps signature on your computer. Also, after uninstalling one more apps the PC should be restarted.
+
+<img width="632" height="485" alt="SSO_Sc_23" src="https://github.com/user-attachments/assets/6a02b1d2-ba36-496c-8b32-6393eb56cb44" />
+
+**[10B]** **Important** Some software will actually hide from your apps list in the settings. You must manually locate the folders for these software, or investigate.
+
+<img width="1020" height="765" alt="SSO_Sc_24" src="https://github.com/user-attachments/assets/943f7200-5e3f-4e26-bd69-a76fb35d5a04" />
+
+**[10C]** To find out where this app's files are you must open the following menus:  
+
+```
+Right click -> Properties -> Shortcut -> Target & Shortcut
+```
+
+<img width="356" height="536" alt="SSO_Sc_26" src="https://github.com/user-attachments/assets/c39dd00a-cc4a-4767-a54d-26e5bd671c87" />
+
+**[10D]** Then, locate and delete the files manually at the target and shortcut directories.
+
+<img width="839" height="575" alt="SSO_Sc_28" src="https://github.com/user-attachments/assets/f9b0ac7f-27c9-4417-b2c1-01d3b9316e54" />
+
+**[10E] I actually ran into an issue where a process of iWin Games is running, which is preventing me from deleting the files currently in use.
+
+<img width="1018" height="765" alt="SSO_Sc_29" src="https://github.com/user-attachments/assets/4af76cea-6413-4714-ba09-9e6e998d83fc" />
+
